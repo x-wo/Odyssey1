@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+aynurdurmus2007.bubbleapps.io	TRUE	/	FALSE	1999999999	aynurdurmus2007_test_u2main	1699192962899x132793272159387410
+aynurdurmus2007.bubbleapps.io	TRUE	/	FALSE	1999999999	aynurdurmus2007_test_u2main.sig	dn83sebPh8_GLGupt-PIodAGyYQ
+aynurdurmus2007.bubbleapps.io	TRUE	/	FALSE	1999999999	aynurdurmus2007_u1_testmain	1699192962883x474500383365809200
+aynurdurmus2007.bubbleapps.io	TRUE	/	FALSE	1999999999	aynurdurmus2007_live_u2main	1699192964029x628285064509534800
+aynurdurmus2007.bubbleapps.io	TRUE	/	FALSE	1999999999	aynurdurmus2007_live_u2main.sig	3J0GbVtTROXoTeLZNZYG2y4prfw
+aynurdurmus2007.bubbleapps.io	TRUE	/	FALSE	1999999999	aynurdurmus2007_u1main	1699192963985x671565160883103000
+
